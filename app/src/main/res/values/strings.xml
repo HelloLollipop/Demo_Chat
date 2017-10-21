@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo_Chat</string>
+    <string name="send">发送</string>
+    <string name="return_call">人家不好意思回复你啦~</string>
+</resources>
